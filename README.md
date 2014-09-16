@@ -1,4 +1,8 @@
 WindowsBackupWithRealSync
 =========================
 
-VB backup script for my Windows 
+backup script for my Windows 
+
+スクリプト以外に必要なもの
+・RealSync
+・wol.exe 
